@@ -1,4 +1,4 @@
-# ElectroPerf Kernel Builder
+# Etherious Kernel Builder
 
 ## Result of last run ##
 [![Build Status](https://cloud.drone.io/api/badges/SonalSingh18/Etherious_drone_ci/status.svg?ref=refs/heads/master)](https://cloud.drone.io/SonalSingh18/Etherious_drone_ci)
